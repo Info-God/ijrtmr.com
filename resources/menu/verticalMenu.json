@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Indexing",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "index"
+    },
+    {
+      "url": "/editorial",
+      "name": "Editorial Board",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "editorial"
+    },
+    {
+      "url": "/archives",
+      "name": "Archives",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "archives"
+    },
+    {
+      "url": "/dash",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "dashboard",
+      "badge": [
+        "danger",
+        "5"
+      ]
+    }
+  ]
+}
